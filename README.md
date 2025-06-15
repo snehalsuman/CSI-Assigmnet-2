@@ -1,16 +1,4 @@
-### 🛠️ Project Structure
 
-todo-app/
-├── public/
-├── src/
-│   ├── components/
-│   │   └── TodoList.jsx   # Main to-do list logic
-│   ├── App.js             # App entry point
-│   ├── App.css            # Enhanced styling
-│   └── index.js
-├── .gitignore
-├── package.json
-└── README.md
 # 📝 React To-Do List Application
 
 A fully functional and elegant **To-Do List** web app built with **React.js**, featuring input validation, task filtering, local storage persistence, and a responsive UI.
